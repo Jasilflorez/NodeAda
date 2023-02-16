@@ -1,0 +1,3 @@
+Mi Productos Sirve Para Poder atualizar de Forma sencilla cada Nuevo articulo o Informacion que Necesite traer del servidor Asi Podrias Ser Tu Pagina Mas Dinamica y atualizando a cada minuto que todo los dato se veran reflejado en tu pagina 
+
+lo mas importante de mi servidor es que te ayudara a guardar mucha mas informacion en un solo Json que te ayudara  mostrar la informacion mucho mas rapido y de forma correcta 
